@@ -12,7 +12,6 @@ import babelchart
 setup(name = 'babelchart',
       version = babelchart.__version__,
       description = 'Pluggable timeseries data converter',
-      long_description='Pluggable timeseries data converter',
       author = 'Mike Babineau',
       author_email = 'michael.babineau@gmail.com',
       # install_requires = [],
