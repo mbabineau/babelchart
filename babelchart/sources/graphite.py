@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from babelchart.models import TimeSeries, DataPoint
+from ..models import TimeSeries, DataPoint
 
 
 class GraphiteSource(object):

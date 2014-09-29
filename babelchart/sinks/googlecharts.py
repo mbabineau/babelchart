@@ -3,7 +3,7 @@ from collections import defaultdict
 try:
     import gviz_api
 except ImportError:
-    from dependencies import gviz_api
+    from ..dependencies import gviz_api
 
 
 class GoogleChartsSink(object):
